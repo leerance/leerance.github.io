@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-003c11ac","path":"/knowledge/","title":"大学课程","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1668828847000,"contributors":[{"name":"leerance","email":"leerance@163.com","commits":1}]},"filePathRelative":"knowledge/README.md"}');export{e as data};
