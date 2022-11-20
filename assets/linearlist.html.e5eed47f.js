@@ -1,1 +1,0 @@
-import{_ as t,o as a,c as r,a as e,d as s}from"./app.c4d54343.js";const c={},n=e("h1",{id:"线性表",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#线性表","aria-hidden":"true"},"#"),s(" 线性表")],-1),o=[n];function _(i,d){return a(),r("div",null,o)}const h=t(c,[["render",_],["__file","linearlist.html.vue"]]);export{h as default};
